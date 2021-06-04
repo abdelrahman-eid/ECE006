@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta name="discribtion"content="wellcome to my page about mobile computing">
+	<title>mobile computing</title>
+	<style>
+		table {border-collapse: collapse;
+		text-align:center;}
+		
+		table, th, td {
+		border: 1px solid black;}
+		
+	</style>
+	</head>
+	<body>
+			<div class="container">
+			<div class="lin">
+				<ul>
+					<li><a href="index.html" >main page</a></li>
+					<li><a href="p1.html">Introdaction</a></li>
+					<li><a href="p2.html" >applications</a></li>
+					<li><a href="p3.html">how it works</a></li>
+					<li><a href="p4.html">Advantages and Disadvantages</a></li>
+				</ul>
+			</div>
+			<div class="contian">
+				<table>
+					<tr>
+						<td>Advantages</td>
+						<td>Disadvantages</td>
+					</tr>
+					<tr>
+						<td>Increase in Productivity- Mobile devices can be used out in the field of various companies, therefore reducing the time and cost for clients and themselves.</td>
+						<td>Quality of connectivity- as one of the disadvantages, mobile devices will need either WiFi connectivity or mobile network connectivity such as GPRS, 3G and in some countries even 4G connectivity  that is why this is a disadvantage because if you are not near any of these connections your access to the internet is very limited</td>
+					</tr>
+					<tr>
+						<td> Entertainment- Mobile devices can be used for entertainment purposes, for personal and even for presentations to people and clients</td>
+						<td>Security concerns- Mobile VPNs are unsafe to connect to, and also syncing devices might also lead to security concerns. accessing a WiFi network can also be risky because WPA and WEP security can be bypassed easily.</td>
+					</tr>
+					<tr>
+						<td> Portability- this would be one of the main advantages of mobile computing, you are not restricted to one location in order for you to get jobs done or even access email on the go</td>
+						<td>---</td>
+					</tr>
+		
+				</table>
+			</div>
+		</div>
+	</body>
+</html>
